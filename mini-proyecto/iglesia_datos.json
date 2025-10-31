@@ -1,0 +1,43 @@
+{
+    "servidores": [
+        {
+            "nombre": "kevin",
+            "edad": "24",
+            "area": "Seguridad",
+            "disponibilidad": "domingos"
+        },
+        {
+            "nombre": "david",
+            "edad": "25",
+            "area": "Alabanza",
+            "disponibilidad": "domingos"
+        },
+        {
+            "nombre": "alex",
+            "edad": "24",
+            "area": "Comunicaciones",
+            "disponibilidad": "domingos"
+        },
+        {
+            "nombre": "alexandra",
+            "edad": "25",
+            "area": "Ujieres",
+            "disponibilidad": "domingos"
+        },
+        {
+            "nombre": "",
+            "edad": "C:/Users/grisa/AppData/Local/Python/pythoncore-3.14-64/python.exe c:/Users/grisa/Documents/Lambda/ejercicios/prueba.py",
+            "area": "Seguridad",
+            "disponibilidad": "domingos"
+        }
+    ],
+    "asignaciones": [
+        {
+            "fecha": "22032000",
+            "area": "Alabanza",
+            "servidores": [
+                "david"
+            ]
+        }
+    ]
+}
